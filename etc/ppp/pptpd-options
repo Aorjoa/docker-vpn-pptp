@@ -11,6 +11,8 @@ ms-dns 8.8.4.4
 proxyarp
 nodefaultroute
 
+netmask 255.255.255.0
+
 # Logging
 # debug
 # dump
